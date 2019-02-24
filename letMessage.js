@@ -1,7 +1,7 @@
 "use strict";
 
 //import alert from 'alert-node'
-const alert-node = require("alert-node");
+//const alert-node = require("alert-node");
 
 let message;
 
